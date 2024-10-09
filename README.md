@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# This is my project of online CV-maker
+
+The project will receive the necessary data from the user, which the user will enter into the form, after which a summary will be generated on a separate component based on the data, which will ultimately be available for downloading in PDF format
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
